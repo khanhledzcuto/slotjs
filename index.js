@@ -1,11 +1,3 @@
-// 1.Deposit some money
-// 2.Determine number of lines to bet on
-// 3.Collect a bet money
-// 4.Spin the slot money
-// 5.Check if the user won
-// 6.Give the user their winnings
-// 7.Play again
-
 const prompt = require("prompt-sync")();
 
 const ROWS = 3;
